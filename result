@@ -1,0 +1,4 @@
+Benchmark.bc,PASS
+Benchmark.fio,PASS
+Benchmark.IOZone,FAIL
+Functional.zlib,PASS
