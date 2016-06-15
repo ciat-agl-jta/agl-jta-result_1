@@ -1,2 +1,4 @@
-Benchmark.bc,PASS
-Functionals.zlib,PASS
+
+CIAT.common2,SUCCESS
+Functional.bzip2,SUCCESS
+CIAT.common1,FAILURE
